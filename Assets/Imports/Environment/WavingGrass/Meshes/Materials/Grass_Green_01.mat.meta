@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7e294f5dbefe6534faf2cf4e19bfc6aa
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150003
+  packageName: Waving Interactive Grass
+  packageVersion: 1.0
+  assetPath: Assets/WavingGrass/Meshes/Materials/Grass_Green_01.mat
+  uploadId: 747115

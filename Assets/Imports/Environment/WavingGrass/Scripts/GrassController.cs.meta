@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 0c72c6bdd335b8042973f4d8dd84424f
+timeCreated: 1562348740
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150003
+  packageName: Waving Interactive Grass
+  packageVersion: 1.0
+  assetPath: Assets/WavingGrass/Scripts/GrassController.cs
+  uploadId: 747115

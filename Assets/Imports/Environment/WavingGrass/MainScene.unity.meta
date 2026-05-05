@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 781c5214957cc634485ef2a116d8685b
+timeCreated: 1562355202
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150003
+  packageName: Waving Interactive Grass
+  packageVersion: 1.0
+  assetPath: Assets/WavingGrass/MainScene.unity
+  uploadId: 747115
